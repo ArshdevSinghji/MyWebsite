@@ -13,6 +13,7 @@
         <input type="submit" value="Upload">
     </form>
     <?php
+
     echo $_SERVER["SERVER_NAME"] . "<br>";
 
     $server_name = "localhost";
